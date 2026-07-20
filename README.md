@@ -90,7 +90,7 @@ After completing this project, I gained knowledge of:
 
 ## Author
 
-**Santhi Sri**
+Abitha Chokka
 
 Electronics and Communication Engineering (ECE)
 
